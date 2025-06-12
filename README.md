@@ -61,7 +61,7 @@
   <section class="container text-center py-5">
     <h2>Hubungi Saya</h2>
     <p>Butuh website profesional untuk bisnis Anda? Hubungi saya melalui email:</p>
-    <p><strong>irfan.skom@gmail.com</strong></p>
+    <p><strong>irfanchibenk25@gmail.com</strong></p>
   </section>
 
   <footer class="bg-dark text-white text-center py-3">
